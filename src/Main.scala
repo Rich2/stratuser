@@ -8,5 +8,5 @@ object MyApp extends App
   println(v2)
   println(v1.x.str)
   println(4.2.str)
-  //deb("ddf")
+  deb("ddf")
 } 
