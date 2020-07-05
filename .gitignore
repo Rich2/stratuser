@@ -1,2 +1,9 @@
 *.class
 *.log
+project/project/
+target/
+bin/
+out/
+sbtDir/
+Dev/User/
+.*/
